@@ -4,6 +4,8 @@ I'm currently learning basics of front end web dev and javascript.
 
 A fun fact about me is that I love to game and watch anime!
 
+Hello
+
 <!--
 **bellasarahm/bellasarahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
